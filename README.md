@@ -46,4 +46,4 @@ GitHub repository URL : https://github.com/SangeethaGnanavel/PWA_Text_Editor
 
 Email for Question : sangeetha.gnana@gmail.com
 
-Link to URL :
+Link to deployed URL : https://pwa-text-editor-9rmj.onrender.com
